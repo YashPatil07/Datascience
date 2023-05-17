@@ -14,7 +14,7 @@ import sklearn as sl
 
 df=pd.read_csv('covid_19_clean_complete_2022.csv')
 df.head()
-
+yash addes new 
 df.isnull()
 
 df.describe()
